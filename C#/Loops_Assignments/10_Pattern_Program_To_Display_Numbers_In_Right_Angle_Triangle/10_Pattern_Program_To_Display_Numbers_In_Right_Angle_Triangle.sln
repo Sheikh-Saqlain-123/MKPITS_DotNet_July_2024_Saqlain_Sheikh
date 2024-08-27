@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Pattern_Program_To_Display_Numbers_In_Right_Angle_Triangle", "10_Pattern_Program_To_Display_Numbers_In_Right_Angle_Triangle.csproj", "{17065F5A-2C63-406A-BF5E-6CC5CBD49089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17065F5A-2C63-406A-BF5E-6CC5CBD49089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17065F5A-2C63-406A-BF5E-6CC5CBD49089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17065F5A-2C63-406A-BF5E-6CC5CBD49089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17065F5A-2C63-406A-BF5E-6CC5CBD49089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2972979C-25A1-46D5-90B3-AA9A77CC49BD}
+	EndGlobalSection
+EndGlobal
