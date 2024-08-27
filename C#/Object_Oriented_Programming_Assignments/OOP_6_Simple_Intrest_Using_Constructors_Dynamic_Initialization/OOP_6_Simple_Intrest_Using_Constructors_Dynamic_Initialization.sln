@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_6_Simple_Intrest_Using_Constructors_Dynamic_Initialization", "OOP_6_Simple_Intrest_Using_Constructors_Dynamic_Initialization.csproj", "{75545E91-8B14-4D9E-8D1E-BB1FCDA202D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75545E91-8B14-4D9E-8D1E-BB1FCDA202D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75545E91-8B14-4D9E-8D1E-BB1FCDA202D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75545E91-8B14-4D9E-8D1E-BB1FCDA202D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75545E91-8B14-4D9E-8D1E-BB1FCDA202D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9060C3EB-6865-40C7-95C7-6F32AA5FD0D2}
+	EndGlobalSection
+EndGlobal
