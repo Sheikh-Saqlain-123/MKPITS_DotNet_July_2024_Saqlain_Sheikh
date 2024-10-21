@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Addition</title>
+</head>
+<body>
+    <h1>Addition</h1>
+    <input type="number" id="add1" placeholder="Enter first number: ">
+    <input type="number" id="add2" placeholder="Enter second number: ">
+    <button onclick="add()">Add</button>
+    <p id="addResult"></p>
+
+    <script>
+        function add() {
+            const a = parseFloat(document.getElementById('add1').value);
+            const b = parseFloat(document.getElementById('add2').value);
+            document.getElementById('addResult').innerText = "Sum: " + (a + b);
+        }
+    </script>
+</body>
+</html>

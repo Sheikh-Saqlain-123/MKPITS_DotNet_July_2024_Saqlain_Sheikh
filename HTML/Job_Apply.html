@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Application</title>
+</head>
+<body>
+    <h1>Apply for a Job</h1>
+    <form action="/apply_job" method="post">
+        <label for="fullname">Full Name:</label>
+        <input type="text" id="fullname" name="fullname"><br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone"><br><br>
+
+        <label for="position">Position Applying For:</label>
+        <input type="text" id="position" name="position"><br><br>
+
+        <label for="resume">Upload Resume:</label>
+        <input type="file" id="resume" name="resume"><br><br>
+
+        <label for="cover_letter">Cover Letter:</label>
+        <textarea id="cover_letter" name="cover_letter"></textarea><br><br>
+
+        <label for="experience">Years of Experience:</label>
+        <input type="number" id="experience" name="experience"><br><br>
+
+        <button type="submit">Apply</button>
+    </form>
+</body>
+</html>
